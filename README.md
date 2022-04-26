@@ -2,6 +2,6 @@
  RESTAURANT
  > Programing
  ## Studies
- +Horizontal Menu
- +Table
+ - Horizontal Menu
+ - Table
  
