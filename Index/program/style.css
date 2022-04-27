@@ -3,6 +3,7 @@ body{
 }
 .ttl{
       color: whitesmoke;
+      background-color: black;
       text-align: center;
       font-size: 120px;
       margin: 0;
@@ -57,4 +58,29 @@ table, th, td{
     color: whitesmoke;
     border: 2px solid;
       border-collapse: collapse;
+  }
+  .form{
+      color: aliceblue;
+  }
+  .container{
+      background-color: #c51111;
+      width: 300px;
+      margin-left: 500px;
+  }
+  .contato{
+      color: aliceblue;
+      font-size: 15px;
+      margin-left: 400px
+  }
+  .chef{
+      position: absolute;
+  }
+  .chef1{
+            color: yellow;
+           font-family: arial;
+            margin-left: 400px;
+  }
+  .chef2{
+            color: aliceblue;
+            margin-left: 400px;
   }
