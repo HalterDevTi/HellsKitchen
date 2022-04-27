@@ -5,7 +5,6 @@
 ![hellssobre](https://user-images.githubusercontent.com/101679144/165626097-236e974b-79b3-4f94-8c35-13c43759112c.png)
 
  RESTAURANT
- > Programing
  > Finished
  ## Studies
  - Horizontal Menu
